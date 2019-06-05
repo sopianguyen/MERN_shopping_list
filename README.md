@@ -1,2 +1,5 @@
 # MERN_shopping_list (WIP)
-A shopping list built with the MERN stack
+A shopping list built with the MERN (Mongo DB, ExpressJS, ReactJS, and NodeJS) stack
+
+Other technologies used: 
+- Postman
