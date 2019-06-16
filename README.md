@@ -3,3 +3,4 @@ A shopping list built with the MERN (Mongo DB, ExpressJS, ReactJS, and NodeJS) s
 
 Other technologies used: 
 - Postman
+- Bootstrap/React-strap
